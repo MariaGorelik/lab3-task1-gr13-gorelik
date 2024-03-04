@@ -36,6 +36,7 @@
 *.x86_64
 *.hex
 labrabota3-1
+prime_twins
 
 # Debug files
 *.dSYM/
