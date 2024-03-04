@@ -1,3 +1,4 @@
+//MariaGorelik
 #include <stdio.h>
 #include <stdlib.h>
 #include "prime_twins.h"
